@@ -7,40 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7889e1-a91f-4cc8-b65f-294a76270e4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/WebsiteBookstoreApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/AuthorityRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/BookRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/CatalogBookRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/DeliveryMethodRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/EvaluationRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/ImageRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/OrderDetailsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/PaymentMethodRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/dao/WishRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/Authority.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/CatalogBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/DeliveryMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/Evaluation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/Image.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/OrderDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/PaymentMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/entity/Wish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/ltk/websiteBookstore/rest/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vn/ltk/websiteBookstore/WebsiteBookstoreApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9b7889e1-a91f-4cc8-b65f-294a76270e4f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
