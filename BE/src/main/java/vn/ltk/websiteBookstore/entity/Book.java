@@ -45,7 +45,7 @@ public class Book {
             CascadeType.PERSIST, CascadeType.MERGE,
             CascadeType.DETACH, CascadeType.REFRESH
     })
-    private List<OrderDetails> orderDetailsList;
+    private List<OrderDetail> orderDetailsList;
     @OneToMany(mappedBy = "book", fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     private List<Wish> wishList;
 }

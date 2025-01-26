@@ -28,7 +28,7 @@ public class Order {
     @Column(name = "total")
     private double Total;
     @OneToMany(mappedBy = "order", fetch = FetchType.LAZY, cascade = CascadeType.ALL)
-    private List<OrderDetails> orderDetailsList;
+    private List<OrderDetail> orderDetailsList;
     @ManyToOne(cascade = {
             CascadeType.PERSIST, CascadeType.MERGE,
             CascadeType.DETACH, CascadeType.REFRESH
